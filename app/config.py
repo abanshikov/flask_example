@@ -1,3 +1,3 @@
 class Configuration(object):
     DEBUG = True
-    host = '0.0.0.0'
+    SERVER_NAME = '0.0.0.0:5000'
