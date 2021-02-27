@@ -1,1 +1,1 @@
-# flask_example
+# Example for quick start flask
